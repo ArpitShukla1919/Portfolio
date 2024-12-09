@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "title": "Zerodha Clone",
+      "description": "This is a description of Project One. It focuses on web development using HTML, CSS, and JavaScript.",
+      "github_link": "https://github.com/ArpitShukla1919/ZERODHA_Clone",
+      "image_url": "/img/zerodha.png"
+    },
+    {
+      "title": "Techie's Text",
+      "description": "Project Two is a data analysis project using Python and pandas to analyze large datasets.",
+      "github_link": "https://github.com/ArpitShukla1919/Techie-s-Text",
+      "image_url": "/img/Techie's Text.png"
+    },
+    {
+      "title": "Job Post Manager",
+      "description": "This project is an AI-based chatbot developed with Python and TensorFlow.",
+      "github_link": "https://github.com/ArpitShukla1919/Job_Post_Manager",
+      "image_url": "/img/job_post.png"
+    },
+    {
+      "title": "Twitter Demo",
+      "description": "This project is an AI-based chatbot developed with Python and TensorFlow.",
+      "github_link": "https://github.com/ArpitShukla1919/TWITTER_DEMO",
+      "image_url": "/img/backend.png"
+    },
+    {
+      "title": "Chat App (Sockets)",
+      "description": "This project is an AI-based chatbot developed with Python and TensorFlow.",
+      "github_link": "https://github.com/ArpitShukla1919/ChatApp_Sockets",
+      "image_url": "/img/backend.png"
+    }
+  ]
+}
